@@ -1,0 +1,7 @@
+{
+  "name": "FinTrend AI",
+  "description": "A social-style financial analysis app inspired by Instagram and Xiaohongshu. Features AI-powered K-line analysis and creative image editing tools for stock insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
